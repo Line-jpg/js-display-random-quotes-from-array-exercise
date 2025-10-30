@@ -19,8 +19,8 @@ function getRandomQuote() {
 }
 
 function displayRandomQuote() {
-  const randomQuote = getRandomQuote(); // Henter et citat
-  document.getElementById("quotes").textContent = randomQuote; // Viser det på siden
+  const randomQuote = getRandomQuote();
+  document.getElementById("quotes").textContent = randomQuote; 
 }
 
 document
