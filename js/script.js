@@ -4,8 +4,9 @@ const quotes = [
 "hej mis mis mis mis",
 "trolololololololololololololol",
 "hallo flieger",
-
-
+"dette er Line Svensson",
+"Flyv lille fugl",
+"Ud i verden",
 ];
 
 function getRandomQuote() {
